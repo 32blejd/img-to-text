@@ -13,4 +13,3 @@ launch
 todo:
 - add clear button/ reset program after every image loaded
 - functional change theme
-- idk xd
